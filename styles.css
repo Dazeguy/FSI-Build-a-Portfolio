@@ -1,0 +1,30 @@
+h1 {
+    color:rgb(110, 245, 0);
+}
+
+h2 {
+    color:darkblue;
+}
+
+h3 {
+    color:yellow;
+}
+
+div {
+    background-color: white;
+    text-align: center;
+    color:mediumaquamarine
+}
+
+div {
+    background-color:mediumpurple;
+    text-align: center;
+    color:pink
+}
+
+div {
+    background-color:saddlebrown;
+    text-align: center;
+    color:lawngreen
+}
+
